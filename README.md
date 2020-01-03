@@ -6,6 +6,10 @@ This is on-going personal project which implements reinforcement learning to Spa
 
 https://youtu.be/Pdfk7O5VqW0
 
+## DQN agent
+
+https://youtu.be/LdUbFA8g3_Q
+
 ## Reference
 Blog
 * https://hackernoon.com/how-i-trained-an-ai-to-play-atari-space-invaders-b3e8756ef026
