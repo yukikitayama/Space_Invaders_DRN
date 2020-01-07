@@ -18,6 +18,7 @@ https://youtu.be/Pdfk7O5VqW0
 ## DQN agent
 
 v1: https://youtu.be/LdUbFA8g3_Q
+
 v2: https://youtu.be/PkfWF2rSZDI
 
 ## Reference
