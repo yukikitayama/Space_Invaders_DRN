@@ -21,6 +21,8 @@ v1: https://youtu.be/LdUbFA8g3_Q
 
 v2: https://youtu.be/PkfWF2rSZDI
 
+![alt text][dqn_reward]
+
 ## Reference
 Blog
 * https://hackernoon.com/how-i-trained-an-ai-to-play-atari-space-invaders-b3e8756ef026
@@ -32,3 +34,4 @@ Colab code
 * https://colab.research.google.com/drive/1DggF1gE3FjRu4ftYhYoxQCxLIOaxwVyw
 
 [screen]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/space_invader_image.jpg
+[dqn_reward]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/dqn_reward.png
