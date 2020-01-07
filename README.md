@@ -7,6 +7,13 @@ State space is game screen images of height 210 by width 160 with 3 color channe
 
 ![alt text][screen]
 
+## Task list
+* Implement every C step update to target neural network parameter
+* Mimic model architecture of DeepMind human level control paper
+* Change input as m most recent frames stacking input
+* Clip rewards as 1, -1, and 0.
+* frame-skipping technique, or selecting action on every kth frame, and repeat the same actions on skipped frames.
+
 ## Methodology
 * Deep Q Network
 * Double Deep Q Network
@@ -23,9 +30,19 @@ v2: https://youtu.be/PkfWF2rSZDI
 
 ![alt text][dqn_reward]
 
+## Terminology
+* model-free, reinforcement learning is model-free because it does not use transition probability distribution and reward function, which are called the model in Markov Decision Process. In contrast, model-free reinforcement learning is called trial-and-error algorithm.
+* off-policy, q-learning is off-policy because it updates q values using q values of the next state and greedy action. But for example SARSA is on-policy because it updates q values using q values of the next state and current policy of an action.
+
 ## Reference
 Blog
 * https://hackernoon.com/how-i-trained-an-ai-to-play-atari-space-invaders-b3e8756ef026
+
+CrossValidated
+* "What is the difference between off-policy and on-policy learning", https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning
+
+Wikipedia
+* "Model-free (reinforcement learning)", https://en.wikipedia.org/wiki/Model-free_(reinforcement_learning)
 
 Paper
 * https://nihit.github.io/resources/spaceinvaders.pdf
