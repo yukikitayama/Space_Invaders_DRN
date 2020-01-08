@@ -35,8 +35,13 @@ v2: https://youtu.be/PkfWF2rSZDI
 * off-policy, q-learning is off-policy because it updates q values using q values of the next state and greedy action. But for example SARSA is on-policy because it updates q values using q values of the next state and current policy of an action.
 
 ## Reference
+Github
+* https://github.com/phossen/reinforcement-learning-2/blob/master/taxi_agent.py
+* https://github.com/lilianweng/deep-reinforcement-learning-gym/blob/master/playground/policies/dqn.py
+
 Blog
 * https://hackernoon.com/how-i-trained-an-ai-to-play-atari-space-invaders-b3e8756ef026
+* https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html
 
 CrossValidated
 * "What is the difference between off-policy and on-policy learning", https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning
