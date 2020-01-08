@@ -8,7 +8,7 @@ State space is game screen images of height 210 by width 160 with 3 color channe
 ![alt text][screen]
 
 ## Task list
-* Implement every C step update to target neural network parameter
+* Implement every C step update to target neural network parameter. (Done 2020-01-08)
 * Mimic model architecture of DeepMind human level control paper
 * Change input as m most recent frames stacking input
 * Clip rewards as 1, -1, and 0.
