@@ -42,6 +42,7 @@ Github
 Blog
 * https://hackernoon.com/how-i-trained-an-ai-to-play-atari-space-invaders-b3e8756ef026
 * https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html
+* https://becominghuman.ai/lets-build-an-atari-ai-part-1-dqn-df57e8ff3b26
 
 CrossValidated
 * "What is the difference between off-policy and on-policy learning", https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning
