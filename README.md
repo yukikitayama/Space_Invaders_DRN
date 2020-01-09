@@ -13,7 +13,7 @@ State space is game screen images of height 210 by width 160 with 3 color channe
 * Change input as m most recent frames stacking input (Looks like done 2020-01-09).
 * Clip rewards as 1, -1, and 0 (Done 2020-01-09).
 * frame-skipping technique, or selecting action on every kth frame, and repeat the same actions on skipped frames (Done 2020-01-09).
-* Make stop training and restart training logic.
+* Make stop training and restart training logic (Done 2020-01-09).
 
 ## Methodology
 * Deep Q Network
