@@ -12,7 +12,7 @@ State space is game screen images of height 210 by width 160 with 3 color channe
 * Mimic model architecture of DeepMind human level control paper (Done 2020-01-08).
 * Change input as m most recent frames stacking input (Looks like done 2020-01-09).
 * Clip rewards as 1, -1, and 0.
-* frame-skipping technique, or selecting action on every kth frame, and repeat the same actions on skipped frames.
+* frame-skipping technique, or selecting action on every kth frame, and repeat the same actions on skipped frames (Done 2020-01-09).
 
 ## Methodology
 * Deep Q Network
