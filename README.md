@@ -11,8 +11,9 @@ State space is game screen images of height 210 by width 160 with 3 color channe
 * Implement every C step update to target neural network parameter (Done 2020-01-08).
 * Mimic model architecture of DeepMind human level control paper (Done 2020-01-08).
 * Change input as m most recent frames stacking input (Looks like done 2020-01-09).
-* Clip rewards as 1, -1, and 0.
+* Clip rewards as 1, -1, and 0 (Done 2020-01-09).
 * frame-skipping technique, or selecting action on every kth frame, and repeat the same actions on skipped frames (Done 2020-01-09).
+* Make stop training and restart training logic.
 
 ## Methodology
 * Deep Q Network
