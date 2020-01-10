@@ -63,5 +63,8 @@ Colab use
 * "Colab+gcp compute - how to link them together", https://medium.com/@senthilnathangautham/colab-gcp-compute-how-to-link-them-together-98747e8d940e
 * "Kaggle vs. colab faceoff - which free gpu provider is tops?", https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029
 
+Google Cloud Platform
+* "GPUS_ALL_REGIONS", https://stackoverflow.com/questions/53415180/gcp-error-quota-gpus-all-regions-exceeded-limit-0-0-globally
+
 [screen]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/space_invader_image.jpg
 [dqn_reward]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/dqn_reward.png
