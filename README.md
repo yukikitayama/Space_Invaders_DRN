@@ -57,5 +57,10 @@ Paper
 Colab code
 * https://colab.research.google.com/drive/1DggF1gE3FjRu4ftYhYoxQCxLIOaxwVyw
 
+Colab use
+* "Getting the most out of your google colab (tutorial)", https://medium.com/@oribarel/getting-the-most-out-of-your-google-colab-2b0585f82403
+* "Best deals in deep learning cloud providers", https://towardsdatascience.com/maximize-your-gpu-dollars-a9133f4e546a
+* "Colab+gcp compute - how to link them together", https://medium.com/@senthilnathangautham/colab-gcp-compute-how-to-link-them-together-98747e8d940e
+
 [screen]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/space_invader_image.jpg
 [dqn_reward]: https://github.com/yukikitayama/space_invaders_reinforcement_learning/blob/master/images/dqn_reward.png
