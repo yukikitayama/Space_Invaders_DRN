@@ -29,6 +29,12 @@ v1: https://youtu.be/LdUbFA8g3_Q
 
 v2: https://youtu.be/PkfWF2rSZDI
 
+v3: https://youtu.be/SHhe49SlYWA
+
+## Goal
+
+DeepMind DQN: https://www.youtube.com/watch?v=W2CAghUiofY
+
 ![alt text][dqn_reward]
 
 ## Terminology
